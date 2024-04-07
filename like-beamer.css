@@ -3,7 +3,7 @@
 @import 'gaia';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300&family=Noto+Sans+KR:wght@400;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300&family=Noto+Sans+KR:wght@400;700&display=swap');
 
 :root {
   --color-background: #fff;
