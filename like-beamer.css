@@ -108,3 +108,8 @@ img[alt~="center"] {
 code {
     font-family: 'Source Code Pro', monospace;
 }
+
+th {
+    background-color: #800000;
+    color: #fff;
+}
