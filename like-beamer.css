@@ -5,9 +5,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 :root {
-    --color-background: #fff;
-    --color-foreground: #333;
-    --color-highlight: #800000;
+    --main: #1f38c5;
+    --secondary: #141414;
 }
 
 section {
@@ -29,12 +28,11 @@ ul ul {
 }
 
 section.lead h1 {
-    color: #800000;
     text-align: left;
 }
 
 section.lead h1 strong {
-    -webkit-text-stroke: 1px #800000;
+    -webkit-text-stroke: 1px;
 }
 
 section.lead h2 {
@@ -43,7 +41,7 @@ section.lead h2 {
 }
 
 section.lead h2 strong {
-    -webkit-text-stroke: 1px #800000;
+    -webkit-text-stroke: 1px;
 }
 
 section.lead h3 {
@@ -52,7 +50,7 @@ section.lead h3 {
 }
 
 section.lead h3 strong {
-    -webkit-text-stroke: 1px #800000;
+    -webkit-text-stroke: 1px;
 }
 
 section.lead h4 {
@@ -61,16 +59,15 @@ section.lead h4 {
 }
 
 section.lead h4 strong {
-    -webkit-text-stroke: 1px #800000;
+    -webkit-text-stroke: 1px;
 }
 
 section.lead h5 {
-    color: #800000;
     text-align: left;
 }
 
 section.lead h5 strong {
-    -webkit-text-stroke: 1px #800000;
+    -webkit-text-stroke: 1px;
 }
 
 section.lead p {
