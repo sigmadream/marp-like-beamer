@@ -108,10 +108,3 @@ img[alt~="center"] {
 code {
     font-family: 'Source Code Pro', monospace;
 }
-
-table{
-    thread th {
-        background-color: #800000;
-        color: #fff;
-    }
-}
