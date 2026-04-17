@@ -78,10 +78,16 @@ section.lead p {
 }
 
 header {
+    text-align: right;
+    position: absolute;
+    top: 96.2%;
+    width: 100%;
+    right: 0;
+    left: -51%;
     background-color: #800000;
     color: #fff;
     font-size: 1em;
-    font-weight: 700;
+    font-weight: 700;    
 }
 
 blockquote {
