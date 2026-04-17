@@ -109,7 +109,9 @@ code {
     font-family: 'Source Code Pro', monospace;
 }
 
-thead th {
-    background-color: #800000;
-    color: #fff;
+table {
+    thead th {
+        background-color: #800000;
+        color: #fff;
+    }
 }
