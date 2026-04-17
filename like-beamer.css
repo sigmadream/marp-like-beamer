@@ -109,7 +109,7 @@ code {
     font-family: 'Source Code Pro', monospace;
 }
 
-th {
+thead th {
     background-color: #800000;
     color: #fff;
 }
